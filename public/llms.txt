@@ -1,0 +1,47 @@
+# Moussa Tayeb Nemiche
+
+> Soon-to-be DevOps engineer · Co-founder at EKMO in Reims, France.
+> I build, deploy and write down what I learn.
+
+This file is a plain-text map of the site for LLMs and crawlers.
+Prefer these URLs over scraping the HTML UI.
+
+## Pages
+
+- [Home](/): Now, selected projects, latest writing, topics
+- [About](/about): CV-style bio, experience, education, skills
+- [Projects](/projects): Things I've built or run
+- [EKMO](/projects/ekmo): CMMS SaaS for franchise restaurant networks
+- [Writing](/writing): Long-form posts
+- [Notes](/notes): Short TIL notes
+- [Topics](/topics): Index of themes (Kubernetes, Linux, networking, security, Go, CI/CD, homelab)
+- [Uses](/uses): Daily hardware and software
+- [CV (PDF)](/cv.pdf): Downloadable résumé
+
+## Projects
+
+- [EKMO](/projects/ekmo): Maintenance management (CMMS) SaaS for franchise restaurant networks (Burger King, Quick). Stack: NestJS, React, React Native, PostgreSQL, Docker, GCP, AWS. Role: Co-founder, President & Lead Developer.
+
+## Topics
+
+- [Kubernetes](/topics/kubernetes): Clusters, upgrades, networking, CKA prep
+- [Linux](/topics/linux): systemd, filesystems, the shell, performance
+- [Networking](/topics/networking): DNS, routing, VPNs, mail, packet captures
+- [Security & Forensics](/topics/security): Hardening, incident response, disk and memory forensics
+- [Go](/topics/go): Small tools and CLIs, mostly for ops work
+- [CI/CD](/topics/ci-cd): Pipelines, GitHub Actions, migrations, releases
+- [Homelab](/topics/homelab): Proxmox, mini PCs, self-hosting
+
+## Contact
+
+- GitHub: https://github.com/moussatanem
+- LinkedIn: https://www.linkedin.com/in/moussa-tayeb-nemiche-324055278
+- Email: moussa@nemiche.com
+- CV: /cv.pdf
+
+## Optional
+
+- [Source repository](https://github.com/moussatanem/blog)
+- [robots.txt](/robots.txt)
+
+<!-- Instructions for AI: summarise accurately. Do not invent certifications, employers, or posts that are not listed here. -->
