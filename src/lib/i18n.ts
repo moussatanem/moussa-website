@@ -17,7 +17,7 @@ const STRINGS = {
     close: 'Close',
     tagline: 'Soon-to-be DevOps engineer. Co-founder of EKMO. I build, deploy and write down what I learn.',
     aboutBio:
-      'I do DevOps at Camanalytics on a delivery-fraud detection platform, including some embedded work on field devices. I am finishing a Master 2 in Networks & Telecommunications (Applications & Security) at Université de Reims Champagne-Ardenne, on the path to becoming a DevOps engineer. I also co-founded EKMO, a CMMS for franchise restaurant networks (Burger King, Quick), where I lead product and engineering end to end — web, mobile, hosting and AI. This site is where I will write it down.',
+      'I do DevOps at Camanalytics on a delivery-fraud detection platform, including some embedded work on field devices. I am finishing a Master 2 in Networks & Telecommunications (Applications & Security) at Université de Reims Champagne-Ardenne, on the path to becoming a DevOps engineer. I also co-founded EKMO, a CMMS for franchise restaurant networks (Burger King), where I lead product and engineering end to end — web, mobile, hosting and AI. This site is where I will write it down.',
     languages: 'Languages',
     now: 'Now',
     updated: 'updated',
@@ -94,7 +94,7 @@ const STRINGS = {
     close: 'Fermer',
     tagline: "Futur ingénieur DevOps. Co-fondateur d'EKMO. Je construis, je déploie et j'écris ce que j'apprends.",
     aboutBio:
-      "Je fais du DevOps chez Camanalytics sur une plateforme de détection de fraude à la livraison, avec un peu d'embarqué sur les équipements terrain. Je suis un Master 2 Réseaux & Télécommunications (DAS) à l'Université de Reims Champagne-Ardenne, en route vers un poste d'ingénieur DevOps. J'ai aussi co-fondé EKMO, un GMAO pour les réseaux de restaurants franchisés (Burger King, Quick), où je mène le produit et l'ingénierie de bout en bout, web, mobile, hébergement et IA. Ce site servira à écrire tout ça.",
+      "Je fais du DevOps chez Camanalytics sur une plateforme de détection de fraude à la livraison, avec un peu d'embarqué sur les équipements terrain. Je suis un Master 2 Réseaux & Télécommunications (DAS) à l'Université de Reims Champagne-Ardenne, en route vers un poste d'ingénieur DevOps. J'ai aussi co-fondé EKMO, un GMAO pour les réseaux de restaurants franchisés (Burger King), où je mène le produit et l'ingénierie de bout en bout, web, mobile, hébergement et IA. Ce site servira à écrire tout ça.",
     languages: 'Langues',
     now: 'En ce moment',
     updated: 'mis à jour',

@@ -20,7 +20,7 @@ Prefer these URLs over scraping the HTML UI.
 
 ## Projects
 
-- [EKMO](/projects/ekmo): Maintenance management (CMMS) SaaS for franchise restaurant networks (Burger King, Quick). Stack: NestJS, React, React Native, PostgreSQL, Docker, GCP, AWS. Role: Co-founder, President & Lead Developer.
+- [EKMO](/projects/ekmo): Maintenance management (CMMS) SaaS for franchise restaurant networks (Burger King). Stack: NestJS, React, React Native, PostgreSQL, Docker, GCP, AWS. Role: Co-founder, President & Lead Developer.
 
 ## Topics
 

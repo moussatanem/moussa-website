@@ -12,7 +12,7 @@ export const site = {
   } satisfies Localized,
   location: 'Reims, France',
   /** Canonical site origin, no trailing slash. Used by robots.txt / sitemap when set. */
-  url: '', // e.g. https://moussa.nemiche.com
+  url: 'https://www.nemiche.com',
   github: 'https://github.com/moussatanem',
   linkedin: 'https://www.linkedin.com/in/moussa-tayeb-nemiche-324055278',
   email: 'moussa@nemiche.com',
@@ -188,8 +188,8 @@ export const now: { k: Localized; v: Localized }[] = [
   {
     k: { en: 'Shipping', fr: 'En prod' },
     v: {
-      en: 'EKMO, the CMMS SaaS I co-founded for franchise restaurant networks (Burger King, Quick).',
-      fr: 'EKMO, le GMAO SaaS que j\'ai co-fondé pour les réseaux de restaurants franchisés (Burger King, Quick).',
+      en: 'EKMO, the CMMS SaaS I co-founded for franchise restaurant networks (Burger King).',
+      fr: 'EKMO, le GMAO SaaS que j\'ai co-fondé pour les réseaux de restaurants franchisés (Burger King).',
     },
   },
   {
@@ -317,8 +317,8 @@ export const experience: {
     },
     org: 'EKMO SAS · Reims',
     desc: {
-      en: 'CMMS for franchise restaurant networks (Burger King, Quick). Built the product end to end — web and mobile apps, secure hosting, invoice-reading AI — and onboarded the first 10-restaurant network.',
-      fr: 'Logiciel de suivi de la maintenance pour réseaux de restaurants franchisés (Burger King, Quick). Produit créé de A à Z — web, mobile, hébergement sécurisé, IA de lecture de factures — et premier client accompagné (10 restaurants).',
+      en: 'CMMS for franchise restaurant networks (Burger King). Built the product end to end — web and mobile apps, secure hosting, invoice-reading AI — and onboarded the first 10-restaurant network.',
+      fr: 'Logiciel de suivi de la maintenance pour réseaux de restaurants franchisés (Burger King). Produit créé de A à Z — web, mobile, hébergement sécurisé, IA de lecture de factures — et premier client accompagné (10 restaurants).',
     },
   },
 ]
